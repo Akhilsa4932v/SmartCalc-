@@ -1,0 +1,2 @@
+# SmartCalc-
+Your Everyday Assistant
